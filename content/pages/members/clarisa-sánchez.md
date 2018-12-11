@@ -1,5 +1,5 @@
-title: Clarisa Sanchez
-name: Clarisa Sanchez
+title: Clarisa Sánchez
+name: Clarisa Sánchez
 template: people-single
 picture: Person.png
 position: PhD student
