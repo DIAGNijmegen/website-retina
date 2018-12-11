@@ -1,5 +1,5 @@
-title: John Doe
-name: John Doe
+title: Clarisa Sanchez
+name: Clarisa Sanchez
 template: people-single
 picture: Person.png
 position: PhD student
