@@ -199,10 +199,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.a-eyeresearch.nl/publications/schr19a/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://www.a-eyeresearch.nl/publications/teus15a/</loc>
     <priority>1.0</priority>
   </url>
@@ -275,11 +271,15 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.a-eyeresearch.nl/publications/seti16/</loc>
+    <loc>https://www.a-eyeresearch.nl/publications/lief16/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.a-eyeresearch.nl/publications/lief16/</loc>
+    <loc>https://www.a-eyeresearch.nl/publications/schr19a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/bogu19/</loc>
     <priority>1.0</priority>
   </url>
   <url>

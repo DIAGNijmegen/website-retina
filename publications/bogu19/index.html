@@ -5,10 +5,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="canonical" href="https://www.a-eyeresearch.nl/publications/seti16/">
+    <link rel="canonical" href="https://www.a-eyeresearch.nl/publications/bogu19/">
 
 
-    <title>Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks - A-eye Research Group</title>
+    <title>RETOUCH: The Retinal OCT Fluid Detection and Segmentation Benchmark and Challenge - A-eye Research Group</title>
 
 
     <!-- Search Engine -->
@@ -16,19 +16,19 @@
     <meta name="image" content="">
 
     <!-- Schema.org for Google -->
-    <meta itemprop="name" content="Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks - A-eye Research Group">
+    <meta itemprop="name" content="RETOUCH: The Retinal OCT Fluid Detection and Segmentation Benchmark and Challenge - A-eye Research Group">
     <meta itemprop="description" content="">
     <meta itemprop="image" content="">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks - A-eye Research Group">
+    <meta name="twitter:title" content="RETOUCH: The Retinal OCT Fluid Detection and Segmentation Benchmark and Challenge - A-eye Research Group">
     <meta name="twitter:description" content="">
     <meta name="twitter:creator" content="@diagnijmegen">
     <meta name="twitter:image:src" content="">
 
     <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-    <meta property="og:title" content="Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks - A-eye Research Group">
+    <meta property="og:title" content="RETOUCH: The Retinal OCT Fluid Detection and Segmentation Benchmark and Challenge - A-eye Research Group">
     <meta property="og:description" content="">
     <meta property="og:image" content="">
     <meta property="og:site_name" content="A-eye Research Group">
@@ -247,23 +247,24 @@
 
 
           <li class="breadcrumb-item"><a href="https://www.a-eyeresearch.nl/publications/">Publications</a></li>
-        <li class="breadcrumb-item">Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks</li>
+        <li class="breadcrumb-item">RETOUCH: The Retinal OCT Fluid Detection and Segmentation Benchmark and Challenge</li>
       </ol>
     </nav>
 </div>``
     <div class="container">
-    <h1 class="page-title">Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks</h1>
+    <h1 class="page-title">RETOUCH: The Retinal OCT Fluid Detection and Segmentation Benchmark and Challenge</h1>
 
     <p class="lead">
-            A.A. A. Setio,             F. Ciompi,             G. Litjens,             P. Gerke,             C. Jacobs,             S. van Riel,             M. Winkler Wille,             M. Naqibullah,             C. Sánchez and B. van Ginneken    </p>
+            H. Bogunovic,             F. Venhuizen,             S. Klimscha,             S. Apostolopoulos,             A. Bab-Hadiashar,             U. Bagci,             M.F. Beg,             L. Bekalo,             Q. Chen,             C. Ciller,             K. Gopinath,             A.K. Gostar,             K. Jeon,             Z. Ji,             S.H. Kang,             D.D. Koozekanani,             D. Lu,             D. Morley,             K.K. Parhi,             H.S. Park,             A. Rashno,             M. Sarunic,             S. Shaikh,             J. Sivaswamy,             R. Tennakoon,             S. Yadav,             S. De Zanet,             S.M. Waldstein,             B.S. Gerendas,             C. Klaver,             C.I. Sanchez and U. Schmidt-Erfurth    </p>
 
-    <p><i>IEEE Transactions on Medical Imaging</i> 2016;35(5):1160-1169</p>
+    <p><i>IEEE Transactions on Medical Imaging</i> 2019;38:1858-1874</p>
     <p>
-            <a href="https://doi.org/10.1109/TMI.2016.2536809" class="btn btn-primary">DOI</a>
-            <a href="http://www.ncbi.nlm.nih.gov/pubmed/26955024" class="btn btn-primary">PMID</a>
+            <a href="https://doi.org/10.1109/TMI.2019.2901398" class="btn btn-primary">DOI</a>
+            <a href="http://www.ncbi.nlm.nih.gov/pubmed/30835214" class="btn btn-primary">PMID</a>
+            <a href="https://ieeexplore.ieee.org/document/8653407" class="btn btn-primary">URL</a>
     </p>
     <h2>Abstract</h2>
-    <p>We propose a novel Computer-Aided Detection (CAD) system for pulmonary nodules using multi-view convolutional networks (ConvNets), for which discriminative features are automatically learnt from the training data. The network is fed with nodule candidates obtained by combining three candidate detectors specifically designed for solid, subsolid, and large nodules. For each candidate, a set of 2-D patches from differently oriented planes is extracted. The proposed architecture comprises multiple streams of 2-D ConvNets, for which the outputs are combined using a dedicated fusion method to get the final classification. Data augmentation and dropout are applied to avoid overfitting. On 888 scans of the publicly available LIDCIDRI dataset, our method reaches high detection sensitivities of 85.4% and 90.1% at 1 and 4 false positives per scan, respectively. An additional evaluation on independent datasets from the ANODE09 challenge and DLCST is performed. We showed that the proposed multi-view ConvNets is highly suited to be used for false positive reduction of a CAD system.</p>
+    <p>Retinal swelling due to the accumulation of fluid is associated with the most vision-threatening retinal diseases. Optical coherence tomography (OCT) is the current standard of care in assessing the presence and quantity of retinal fluid and image-guided treatment management. Deep learning methods have made their impact across medical imaging, and many retinal OCT analysis methods have been proposed. However, it is currently not clear how successful they are in interpreting the retinal fluid on OCT, which is due to the lack of standardized benchmarks. To address this, we organized a challenge RETOUCH in conjunction with MICCAI 2017, with eight teams participating. The challenge consisted of two tasks: fluid detection and fluid segmentation. It featured for the first time: all three retinal fluid types, with annotated images provided by two clinical centers, which were acquired with the three most common OCT device vendors from patients with two different retinal diseases. The analysis revealed that in the detection task, the performance on the automated fluid detection was within the inter-grader variability. However, in the segmentation task, fusing the automated methods produced segmentations that were superior to all individual methods, indicating the need for further improvements in the segmentation performance.</p>
 
 
     </div>
@@ -274,7 +275,7 @@
         <div class="row">
             <div class="col-md-11 py-3 footer-content">
                 <p>
-                    <a href="https://github.com/diagnijmegen/website-content/edit/master/website-retina/content/pages/publications/seti16.md">&copy;</a>
+                    <a href="https://github.com/diagnijmegen/website-content/edit/master/website-retina/content/pages/publications/bogu19.md">&copy;</a>
 
                     A-eye Research Group 2017-2019. <a href="https://www.a-eyeresearch.nl/colofon">Colofon</a>.
                 </p>
