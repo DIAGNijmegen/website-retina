@@ -203,6 +203,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/schr19a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/teus15a/</loc>
     <priority>1.0</priority>
   </url>
@@ -279,7 +283,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.a-eyeresearch.nl/publications/schr19a/</loc>
+    <loc>https://www.a-eyeresearch.nl/publications/schr19b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
