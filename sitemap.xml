@@ -215,6 +215,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/projects/image-r/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/teus15/</loc>
     <priority>1.0</priority>
   </url>
