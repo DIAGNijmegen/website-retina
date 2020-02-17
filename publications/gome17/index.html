@@ -254,17 +254,17 @@
 
     <p class="lead">
             J. Gomez,             C. Sánchez,             B. Liefers,             F. Venhuizen,             G. Fatti,             A. Morilla-Grasa,             Y. Cartagena,             A. Cabarcos,             A. Santos,             M. Ledesma-Carbayo and A. Anton-Lopez    </p>
-  
+
 
      	<p>Association for Research in Vision and Ophthalmology (2017)</p>
 
     <p>
-        
-    
+
+
 
     </p>
 
-    
+
     <h2>Abstract</h2>
     <p>Purpose : To assess the performance of deep learning architectures based on convolutional neural networks (CNN) for the diagnosis of glaucoma in screening campaigns using color fundus images.</p>
 <p>Methods : Two independent data sets were used to develop and evaluate the proposed method. 1) 805 color fundus images with a field of view of 45 degrees, centered on the macula and including the optic disc (OD) from patients with age ranging from 55 to 86 years old included in a glaucoma detection campaign performed at Hospital Esperanza (Barcelona). Annotations were performed by eight observers having 8 to 26 years of clinical experience. 2) 101 images from the publicly available Drishti-GS retinal image dataset (http://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php). The total 906 images were further organized into a training, monitoring and test set according to a 60-20-20 split. The process to train and validate the CNN had 3 steps. 1) Preprocessing: the edges and the background were blurred to reduce the effect of the bright fringe and the border. Then patches centered at the OD of size 256x256x3 pixels were automatically segmented and scaled to values from 0 to 1. 2) Implementation: The architecture consisted of ten convolutional layers (32 filters 3x3 pixels size) followed by rectified linear units and spatial max-pooling. The network ends with a fully connected layer and a soft-max classifier which outputs a score from 0 to 1. The network was trained using stochastic gradient descent and a learning rate of 0.005. To avoid overfitting data augmentation was performed applying randomly translations, flipping and rotations during the training, and dropout with probability of 0.5. 3) Monitoring and evaluation: the training was completed after 50 epochs. To evaluate the classification capabilities of the algorithm, the area under the receiver operating characteristic curve (ROC) was calculated using the training set.</p>
