@@ -47,6 +47,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/NA</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/https://arxiv.org/abs/1702.05747</loc>
     <priority>1.0</priority>
   </url>
