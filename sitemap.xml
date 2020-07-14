@@ -43,7 +43,23 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/venh18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/lief19b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/lief20/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc08/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/mele14a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -52,6 +68,18 @@
   </url>
   <url>
     <loc>https://www.a-eyeresearch.nl/about/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/mele18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc09/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc10a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -67,7 +95,15 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/mele16a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/abas05/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/venh15b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -79,11 +115,35 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/madu15a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/phil15b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/plat12/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/venh15a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc06a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/horn04/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.a-eyeresearch.nl/publications/ginn13a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/venh17a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -96,6 +156,10 @@
   </url>
   <url>
     <loc>https://www.a-eyeresearch.nl/publications/grin16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/madu16/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -143,6 +207,14 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc06/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc15a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/enge19/</loc>
     <priority>1.0</priority>
   </url>
@@ -155,11 +227,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/madu14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/members/clarisa-sanchez/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.a-eyeresearch.nl/publications/hoge12/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/saks14/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -171,11 +251,23 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/tan12a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/jaco11/</loc>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/madu15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/contact/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc12/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -184,6 +276,10 @@
   </url>
   <url>
     <loc>https://www.a-eyeresearch.nl/publications/lief19/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/mele12a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -203,7 +299,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc11/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/gonz20a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/zeel19/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/valk19/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -235,6 +343,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/venh17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/venh16a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/teus13/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/hoff16/</loc>
     <priority>1.0</priority>
   </url>
@@ -247,7 +367,27 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/valk19a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/projects/image-r/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/teus15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/mele15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc10/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/mele14b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -275,7 +415,15 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/phil15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/ghaf17c/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/venh19/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -287,11 +435,39 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc09b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/schr19a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/mele14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/garc09a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.a-eyeresearch.nl/publications/gall17a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/phil15a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/riel15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/teus15a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/mele16/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -320,6 +496,10 @@
   </url>
   <url>
     <loc>https://www.a-eyeresearch.nl/vacancies/phd-progression-amd/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/mele12/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -363,11 +543,51 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/seti16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/poza08/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/lief16/</loc>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/schr19b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc09a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc08b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/lope03/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/sanc04/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/niem10/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/bogu19/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/phil14a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/venh17b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -376,6 +596,10 @@
   </url>
   <url>
     <loc>https://www.a-eyeresearch.nl/publications/hoge13a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/poza06/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -395,7 +619,15 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.a-eyeresearch.nl/publications/venh15c/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.a-eyeresearch.nl/publications/grin12a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.a-eyeresearch.nl/publications/mann17/</loc>
     <priority>1.0</priority>
   </url>
 
